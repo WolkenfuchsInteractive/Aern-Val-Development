@@ -1,6 +1,7 @@
 # Finished Base Mesh Retopology
 
-10.10.2026
+**10.10.2026**
+
 Finally, a finished base model for the most anthro animal races in the game is completed. The mesh presented on screenshot already has a normal map from high poly mesh.
 Grid density: 33k Tris.
 
