@@ -8,9 +8,10 @@ Devlogs and progress updates from the development of Aern'Val.
   
 ### October 11, 2026
 - [Fixed UV Maps of Character Mesh](Devlogs/2026/FixedUvMapping.md)
-- 
+  
 ### October 10, 2026
 - [Finished Base Mesh Retopology](Devlogs/2026/FinishedBaseMeshRetopology.md)
+  
 ---
 
 ## Archive
