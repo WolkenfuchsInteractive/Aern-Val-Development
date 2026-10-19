@@ -4,7 +4,7 @@ Devlogs and progress updates from the development of Aern'Val.
 ## Latest Devlogs
 
 ### October 19, 2026
-- [New Soundtracks & Plans](Devlogs/2026/DodgeLogic.md)
+- [New Dodge Mechanic](Devlogs/2026/DodgeLogic.md)
   
 ### October 11, 2026
 - [Fixed UV Maps of Character Mesh](Devlogs/2026/FixedUvMapping.md)
